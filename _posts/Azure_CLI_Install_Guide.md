@@ -1,3 +1,8 @@
+---
+layout: post
+title:  "Complete Guide to Installing and Configuring Azure CLI on Windows 11, WSL, and Linux"
+---
+
 <img src="dantas.io-logo.png" width="217" height="76"/>
 <link rel="icon" href="dantas.io-favicon.png" type="image/x-icon">
 
