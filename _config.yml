@@ -35,7 +35,7 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Ronaldo Nascimento Dantas
-  email: ronaldodantas@gmail.com # change to your email address
+  email: contact@dantas.io # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/ronaldondantas # change to your twitter homepage
@@ -115,7 +115,7 @@ comments:
   utterances:
     repo: # <gh-username>/<repo>
     issue_term: # < url | pathname | title | ...>
-  # Giscus options › https://giscus.app
+  # Giscus options › https://giscus.pp
   giscus:
     repo: # <gh-username>/<repo>
     repo_id:
